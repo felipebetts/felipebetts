@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
-  <h2 align="center">  My name is Felipe Betts</h2> 
+  <h1 align="center">Hi there, welcome to my profile! 👋</h1>
+  <h2 align="center"> My name is Felipe Betts</h2> 
 </p>
 
-I'm a completely passionate fullstack developer based in Portugal.
+I'm a programmer constantly on the making! Always learning new tech.
 
 - ⚡ Working as a Front-end Developer;
+- 🌱 I’m currently learning AI development with Python
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebetts/)](https://www.linkedin.com/in/felipebetts/)
 - 😄 You can check my portfolio website [here](https://felipebetts.com.br/ "here").
 
@@ -29,4 +30,4 @@ I'm a completely passionate fullstack developer based in Portugal.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebetts" alt="felipe-betts" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipebetts&show_icons=true" alt="felipebetts" /></p>
 
-⭐️ Thank you for checking my profile
+⭐️ Thank you for checking out my profile
