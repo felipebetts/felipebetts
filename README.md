@@ -24,7 +24,7 @@ I'm a programmer constantly on the making! Always learning new tech.
 - ⚡ Working as a Front-end Developer;
 - 🌱 I’m currently learning AI development with Python
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-betts/)](https://www.linkedin.com/in/felipe-betts/)
-- 😄 You can check my portfolio website [here](https://felipebetts.com.br/ "here").
+- 😄 You can check my portfolio website [here](https://portfolio-felipebetts.vercel.app/ "here").
 
 ## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebetts" alt="felipe-betts" /></p>
